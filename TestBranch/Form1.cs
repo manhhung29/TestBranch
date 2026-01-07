@@ -21,7 +21,7 @@ namespace TestBranch
             {
                 //test nè
                 //Test tiếp nè
-
+                // GRAPH TEST - FEATURE BRANCH
                 new User { Id = 1, Name = "Hung", Department = "IT" },
                 new User { Id = 2, Name = "An", Department = "QA" },
                 new User { Id = 3, Name = "Binh", Department = "IT" }
